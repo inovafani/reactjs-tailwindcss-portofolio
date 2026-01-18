@@ -252,8 +252,8 @@ function App() {
               <textarea
                 name="pesan"
                 id="pesan"
-                cols="45"
-                rows="7"
+                cols={45}
+                rows={7}
                 placeholder="Berikan pesan"
                 className="border border-zinc-500 p-2 rounded-md"
                 required
