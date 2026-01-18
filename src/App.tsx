@@ -1,5 +1,5 @@
-import DataImage from './data';
-import { listTools, listProyek } from './data';
+import DataImage from './data.ts';
+import { listTools, listProyek } from './data.ts';
 
 function App() {
   return (
